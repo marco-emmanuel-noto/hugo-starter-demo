@@ -14,7 +14,7 @@ content_blocks:
   - _bookshop_name: heroes/hero
     background_color: '#ffffff'
     heading:
-      heading_text: CloudCannon Hugo Starter
+      heading_text: test
       text_color: '#333232'
       heading_gradient_color: '#A0A2FF'
     subheading:
