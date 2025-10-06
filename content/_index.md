@@ -1,6 +1,6 @@
 ---
 _schema: default
-title: CloudCannon Hugo Starter
+title: CloudCannon Hugo
 seo:
   page_description: >-
     A starting point for developers looking to build a website with Hugo, using
@@ -14,7 +14,7 @@ content_blocks:
   - _bookshop_name: heroes/hero
     background_color: '#ffffff'
     heading:
-      heading_text: test
+      heading_text:
       text_color: '#333232'
       heading_gradient_color: '#A0A2FF'
     subheading:
